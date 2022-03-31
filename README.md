@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @evgeny-glasu.
+- 👀 I’m interested in JS and NodeJS development.
+- 🌱 I’m currently learning JS and React.
+- 💞️ I’m looking to collaborate on everything interesting.
+- 📫 How to reach me : Telegram: @evgls.
